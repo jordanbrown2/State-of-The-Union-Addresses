@@ -1,5 +1,3 @@
-# Project Starter Template
+# Presidential Rhetoric and the Modern Presidency
 
 ![Caesar in the Code](imgs/included/caesarian_code.png)
-
-Welcome to the project started template. Edit me to make your first changes.

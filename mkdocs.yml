@@ -6,5 +6,10 @@ repo_url: https://github.com/thePortus/his4936-starter
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
-- Some Page: 'some_page.md'
+- Introduction: 'introduction.md'
+- Digital Methods and Historical Scholarship: 'digital_methods_and_historical_scholarship.md'
+- Transparency Report: 'transparency_report.md'
+- Initial Findings: 'initial_findings.md'
+- Problems Encountered: 'problems_encountered.md'
+- Next Steps: 'next_steps.md'
 - Credits: 'credits.md'
