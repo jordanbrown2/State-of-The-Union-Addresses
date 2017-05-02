@@ -14,4 +14,4 @@ The American Presidency Project database has over 120,000 records, providing man
 
 While seemingly unrelated, the presidential election debate transcripts from 1960 to 2016 allow a glimpse of the rhetoric of presidents as candidates. Various modern presidents can be compared by their rhetoric as a candidate versus as a sitting president, using the debate transcripts and the documents mentioned above. The amount of data available via The American Presidency Project alone allows for more research projects that expand on what was found in this examination of the State of the Union Addresses and Addresses to a Joint Session of Congress.
 
-![Donald Trump's Address to a Joint Session of Congress, February 2017](imgs/trump_joint_session_of_congress.jpg)
+![Donald Trump's Address to a Joint Session of Congress, February 2017](imgs/trump_joint_speech.jpg)
