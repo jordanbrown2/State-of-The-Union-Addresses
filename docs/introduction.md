@@ -4,7 +4,7 @@ Historians have long studied the American Presidency, from the policies and pers
 
 Sanctioned by Article III, Section II of the United States Constitution, the State of the Union Address allows a president to outline policy recommendations to Congress and highlight national priorities. The address may also be used to reflect on the progress of the union or events that transpired during the previous year. While the State of the Union address is delivered via a televised speech today, it was historically expressed as a written statement to Congress. Thomas Jefferson began this process in 1801, and it continued for over a century until the presidency of Woodrow Wilson in 1913.
 
-![Wilson Addressing Congress, 1913](docs\imgs\Woodrow_Wilson_addressing_Congress.jpg)
+![Wilson Addressing Congress, 1913](docs\imgs\woodrow_wilson_addressing_congress.jpg)
 
 Therefore, some scholars argue that the "modern rhetorical presidency" began with Wilson. The advent of the Wilson's successor, Warren Harding continued the practice of giving an in-person speech, but Coolidge and Hoover reverted back to written addresses. Franklin Delano Roosevelt resumed the State of the Union Address as a speech, and this method has continued to the present day, with few exceptions. Roosevelt was also the first president to deliver the State of the Union Address at night, the reasoning being that he could reach a wider audience. The advent of the radio and television allowed these two (and future) presidents to deliver the address not just to Congress but the people of the United States. For these reasons, scholars debate whether it was Wilson or Roosevelt that began the "modern rhetorical presidency".
 

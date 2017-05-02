@@ -2,4 +2,4 @@
 
 Daniel Zoromski, Jordan Brown, and Taylor Sanchez
 
-![Presidential Seal](imgs/Presidential_seal)
+![Presidential Seal](imgs/presidential_seal.jpg)
