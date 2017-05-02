@@ -7,7 +7,7 @@ There are not many websites that have a data set containing all of the State of 
 
 There were several years that multiple addresses were given (more on this later), so this is noted by a number after the year in the .txt file name.
 
-![Text Files in Folder](imgs/txt_state_of_the_union.png)
+![Text Files in Folder](imgs/txt_file.png)
 
 
 ### Tools Used for Analysis
