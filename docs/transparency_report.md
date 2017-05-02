@@ -14,4 +14,4 @@ After the .txt files were gathered, they were loaded into the text analysis tool
 
 ![Overview Tags and Tree](docs\imgs\overview_tree_and_tagging.png)
 
-The tree search function progressively narrows down various keywords that are commonly found with one another in the documents and lists the documents where these keywords are found. Both of these processes were key to discovering meaningful relationships between the documents, which will be expanded on in the "Initial Findings" section.
+The tree search function progressively narrows down various keywords that are commonly found with one another in the documents and lists the documents where these keywords are found. This process was key to discovering meaningful relationships between the documents, which will be expanded on in the "Initial Findings" section.
