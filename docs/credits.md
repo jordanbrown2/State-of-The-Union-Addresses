@@ -1,4 +1,6 @@
 # Project credits
 
-* David J. Thomas - Project Management, Coding, Visualizations, and Analysis
-* Students of HIS4936, Hacking History: Programming Digital Scholarship
+
+* Jordan Brown: Project Manager and Data Scientist
+* Daniel Zoromski: Digital Scholarship Expert
+* Taylor Sanchez: Visualization Expert
