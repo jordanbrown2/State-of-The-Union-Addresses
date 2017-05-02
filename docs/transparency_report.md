@@ -9,9 +9,11 @@ There were several years that multiple addresses were given (more on this later)
 
 ![Text Files in Folder](imgs/txt_state_of_the_union.png)
 
+
 ### Tools Used for Analysis
 After the .txt files were gathered, they were loaded into the text analysis tool OverviewDocs for further analysis. OverviewDocs allows users to search each uploaded document for certain keywords and tag them for grouping purposes. We began tagging each document by the president who delivered the address, and then began searching various keywords such as "jobs", "Soviet Union", and "terrorism", tagging the documents containing such keywords.
 
 ![Overview Tags and Tree](imgs/overview_tree_and_tagging.png)
+
 
 The tree search function progressively narrows down various keywords that are commonly found with one another in the documents and lists the documents where these keywords are found. This process was key to discovering meaningful relationships between the documents, which will be expanded on in the "Initial Findings" section.
