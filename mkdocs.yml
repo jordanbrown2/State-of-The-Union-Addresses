@@ -1,10 +1,16 @@
-site_name: HIS4936 Final Project Starter
+site_name: HIS4936 Final Project
 theme_dir: theme
 theme: null
 copyright: 'Copyright &copy; 2017 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
-repo_url: https://github.com/thePortus/his4936-starter
-repo_name: 'GitHub'
+repo_url: https://github.com/jordanbrown2/State-of-The-Union-Addresses
+repo_name: 'State of the Union Addresses'
 pages:
 - Home: 'index.md'
-- Some Page: 'some_page.md'
+- Introduction: 'introduction.md'
+- Digital Methods and Historical Scholarship: 'digital_methods_and_historical_scholarship.md'
+- Transparency Report: 'transparency_report.md'
+- Initial Findings: 'initial_findings.md'
+- Problems Encountered: 'problems_encountered.md'
+- Next Steps: 'next_steps.md'
+- Sources Used: 'sources_used.md'
 - Credits: 'credits.md'

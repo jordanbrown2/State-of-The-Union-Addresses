@@ -1,5 +1,5 @@
-# Project Starter Template
+# Presidential Rhetoric and the Modern Presidency
 
-![Caesar in the Code](imgs/included/caesarian_code.png)
+Daniel Zoromski, Jordan Brown, and Taylor Sanchez
 
-Welcome to the project started template. Edit me to make your first changes.
+![Presidential Seal](imgs/presidential_seal.jpg)
